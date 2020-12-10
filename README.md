@@ -14,3 +14,4 @@ The AC Conference is a (virtual) gathering of students and professionals alike w
 - Fall 2020
 
   - [Fall 2020 Symposium](https://docs.google.com/presentation/d/1xl0TVRhWYSABU9JAIwxtaed2NepaUM2FTpT6N6QsBM8/edit?usp=sharing)
+  - [Fall 2020 Conference Recording](https://drive.google.com/file/d/1pBqTFZdlNTZKz1l3AtYCV6acgLdLbnWg/view?usp=sharing)
